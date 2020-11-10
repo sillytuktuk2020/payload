@@ -152,3 +152,51 @@
 [11/09/2020 15:09:55] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
 [11/09/2020 15:09:55] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
 [11/09/2020 15:09:55] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:13:07] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:13:07] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:13:07] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:13:07] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:14:18] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:14:18] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:14:18] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:14:18] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:14:53] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:14:53] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:14:53] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:14:53] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:17:31] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:17:31] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:17:32] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:17:32] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:23:15] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:23:15] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:23:15] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:23:15] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:26:28] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:26:28] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:26:28] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:26:28] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:30:43] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:30:43] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:30:43] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:30:43] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:30:43] [e(0)] core: Msf::IncompatibleArch : The selected arch is incompatible with the payload
+/opt/metasploit-framework/embedded/framework/lib/msf/core/payload_generator.rb:476:in `generate_raw_payload'
+/opt/metasploit-framework/embedded/framework/lib/msf/core/payload_generator.rb:423:in `generate_payload'
+/opt/metasploit-framework/bin/../embedded/framework/msfvenom:468:in `<main>'
+[11/10/2020 01:36:03] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:36:03] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 01:36:03] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 01:36:03] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 01:36:04] [e(0)] core: Msf::IncompatibleArch : The selected arch is incompatible with the payload
+/opt/metasploit-framework/embedded/framework/lib/msf/core/payload_generator.rb:476:in `generate_raw_payload'
+/opt/metasploit-framework/embedded/framework/lib/msf/core/payload_generator.rb:423:in `generate_payload'
+/opt/metasploit-framework/bin/../embedded/framework/msfvenom:468:in `<main>'
+[11/10/2020 11:06:36] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 11:06:36] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 11:06:36] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 11:06:36] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/10/2020 11:08:30] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 11:08:30] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/10/2020 11:08:30] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
+[11/10/2020 11:08:30] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported

